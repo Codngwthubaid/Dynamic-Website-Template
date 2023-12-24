@@ -19,8 +19,9 @@ body {
 
 .cover {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: flex-start;
+    margin: 10px;
 }
 
 .img {
